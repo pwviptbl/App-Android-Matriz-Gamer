@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686616821679",
+    "firebase_url": "https://free-fire-cup.firebaseio.com",
+    "project_id": "free-fire-cup",
+    "storage_bucket": "free-fire-cup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686616821679:android:d91cba163908ecb378395a",
+        "android_client_info": {
+          "package_name": "com.matrizgamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686616821679-qu4sdggtbe19gqun6ckn7dka1efu4bcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATB5dmFo_Vaif706rQgmIq0yrHq_EA_y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686616821679-qu4sdggtbe19gqun6ckn7dka1efu4bcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

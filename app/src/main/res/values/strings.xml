@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Matriz Gamer</string>
+    <string name="default_notification_channel_id" translatable="false">Atenção, Matriz Gamer</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="fcm_message">Mensagem de Notificação</string>
+    <string name="title_activity_fullscreen2">FullscreenActivity2</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
